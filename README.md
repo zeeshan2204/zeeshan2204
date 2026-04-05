@@ -12,13 +12,12 @@
 
 I’m a 3rd-year Computer Science student specializing in Data Science, with a strong interest in building data-driven applications and scalable software solutions. I enjoy turning complex problems into practical, real-world systems.
 
-- 🔭 I'm currently working on **Building data science projects, machine learning models, and full-stack applications to strengthen my real-world development and analytical skills.**
-- 🌱 I'm currently learning **Data Science, Machine Learning, Python, SQL, Statistics, System Design, and modern web technologies.**
-- 💬 Ask me about **Python, Data Science, Machine Learning basics, SQL, Data Analysis, and Web Development fundamentals.**
-- 👯 I'm looking to collaborate on **Data science projects, machine learning applications, open-source contributions, and beginner-friendly research or product ideas.**
-- ⚡ Fun fact: **I like breaking down complex data problems into simple, elegant solutions.**
-- 🎮 Hobbies: **Exploring new technologies, solving coding challenges, reading about AI, and working on personal tech projects.**
-- 📫 How to reach me: **zeeshann2204@gmail.com**
+- I'm currently working on **Building data science projects, machine learning models, and full-stack applications to strengthen my real-world development and analytical skills.**
+- I'm currently learning **Data Science, Machine Learning, Python, SQL, Statistics, System Design, and modern web technologies.**
+- Ask me about **Python, Data Science, Machine Learning basics, SQL, Data Analysis, and Web Development fundamentals.**
+- I'm looking to collaborate on **Data science projects, machine learning applications, open-source contributions, and beginner-friendly research or product ideas.**
+- Hobbies: **Exploring new technologies, solving coding challenges, reading about AI, and working on personal tech projects.**
+- How to reach me: **zeeshann2204@gmail.com**
 
 ## 🛠️ Tech Stack
 
