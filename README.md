@@ -9,7 +9,7 @@
 <h3>Connect with me</h3>
 
 [![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/md-zeeshan-ansari-00031127b)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zeeshan-ansari-00031127b/)
 
 </div>
 
