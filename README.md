@@ -105,7 +105,7 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 <h3>Contribution Graph</h3>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan2204&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Zeeshan%20Altybaev's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan2204&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Zeeshan%20's%20Contribution%20Graph"
   alt="Activity Graph"
   width="100%"
 />
