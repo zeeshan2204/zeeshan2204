@@ -8,7 +8,7 @@
 
 <h3>Connect with me</h3>
 
-[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](/)
+[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-theta-plum-67.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zeeshan-ansari-00031127b/)
 
 </div>
